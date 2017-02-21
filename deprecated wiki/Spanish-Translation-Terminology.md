@@ -10,13 +10,18 @@ Vale recalcar que todos los términos están abiertos a discusión. En caso se t
 
 - Free Code Camp
 - Challenge
-- Algorithm
 - Front End Project
 - Back End Project
 - Top menu buttons.
 - Camper
 - Full Stack
 - Bug
+
+### Translated
+
+- Algorithm: Algoritmo
+- Challenge: Reto
+
 
 ## CS terminology
 
